@@ -22,7 +22,7 @@ I'm interested in cybersecurity, software engineering, and building secure, reli
 
 ## 🚀 Projects
 
-- **Secure Notes App** — Independent software engineering and cybersecurity project (details coming soon).
+- **[Secure Notes App](https://github.com/kevin-william-peoples/secure-notes-app)** — Browser-based encrypted notes application using AES-256-GCM, PBKDF2, and the Web Crypto API.
 - **Cybersecurity Projects** — Security audits, incident analysis, vulnerability assessments, Linux permissions, and Python automation.
 - **Portfolio Website** — Personal portfolio hosted using GitHub Pages.
 
